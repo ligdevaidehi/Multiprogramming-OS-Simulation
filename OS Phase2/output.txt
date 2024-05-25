@@ -1,0 +1,48 @@
+*                                       
+*   *                                   
+*   *   *                               
+*   *                                   
+
+Program Terminated abnormally		Line Limit Exceeded
+IC = 15	Toggle: 0	TLC: 5	TTC: 24	TTL25	TLL4	P	D	6	0
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 3	Toggle: 0	TLC: 0	TTC: 5	TTL10	TLL2	L	R	3	1
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 0	TTC: 3	TTL7	TLL2	L	R	3	6
+
+ABCD                                    
+ABCD                                    
+
+Program Terminated abnormally		Time Limit Exceeded
+IC = 6	Toggle: 0	TLC: 2	TTC: 10	TTL: 9	TLL: 4	G	D	5	0
+
+
+Program Terminated abnormally		Operand Error
+IC = 3	Toggle: 0	TLC: 0	TTC: 5	TTL: 20	TLL: 10	L	R	3	0
+
+IC = 4	Toggle: 0	TLC: 0	TTC: 7	TTL20	TLL10	S	R	7	A
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 0	TTC: 3	TTL50	TLL8	L	R	3	3
+
+
+Program Terminated abnormally		Out of Data
+IC = 1	Toggle: 0	TLC: 0	TTC: 2	TTL50	TLL8	G	D	3	0
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 1	TTC: 3	TTL4	TLL2	P	D	3	0
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 1	TTC: 3	TTL4	TLL2	P	D	3	0
+
+
+Program Terminated abnormally		Invalid Page Fault
+IC = 2	Toggle: 0	TLC: 1	TTC: 3	TTL3	TLL2	P	D	3	0
+
